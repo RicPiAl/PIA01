@@ -1,3 +1,3 @@
 # Hola mundo en Python
 
-print "Hola mundo!"
+print "Hola Mundo"
